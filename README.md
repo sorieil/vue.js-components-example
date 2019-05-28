@@ -1,2 +1,1 @@
-# vue.js-axios
-Wrapping aixos
+# vue.js components example
